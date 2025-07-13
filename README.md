@@ -75,8 +75,20 @@ El sistema será desarrollado en grupos de tres integrantes, gestionado por el l
 - El sistema debe evitar pérdidas de información en caso de cierre inesperado.
 - La aplicación debe funcionar correctamente en sistemas operativos Windows, macOS y Linux.
 
+### ¿Qué tecnologías se usan para este proyecto?
+
+
 ### Plan de proyecto
 ![WhatsApp Image 2025-05-02 at 7 55 23 AM](https://github.com/user-attachments/assets/2bbac9f8-5c74-4231-ad9d-18d0abff1713)
+
+
+### Este proyecto está construido con:
+
+- Vite
+- TypeScript
+- React
+- shadcn-ui
+- Tailwind CSS
 
 ## Objetivos y Propositos
 ### ¿Cual es el objetivo principal de esta aplicacion?
